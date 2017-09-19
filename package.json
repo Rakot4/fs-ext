@@ -1,0 +1,28 @@
+{
+  "name": "fs-ext",
+  "version": "1.0.0",
+  "description": "Several wrapper functions over the node js module \"fs\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakot4/fs-ext.git"
+  },
+  "author": "Rakoth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rakot4/fs-ext/issues"
+  },
+  "homepage": "https://github.com/Rakot4/fs-ext#readme",
+  "dependencies": {
+    "csv-parse": "^1.2.2",
+    "file-type": "^6.1.0",
+    "js-beautify": "^1.7.3",
+    "json2csv": "^3.11.2",
+    "json2xls": "^0.1.2",
+    "mkdirp": "^0.5.1",
+    "node-xlsx": "^0.11.0"
+  }
+}
